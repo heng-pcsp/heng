@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-heng",
+  "version": "2.1.4-dev",
+  "description": "Cordova Heng Plugin",
+  "cordova": {
+    "id": "cordova-plugin-heng",
+    "platforms": [
+      "android",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heng-pcsp/heng.git"
+  }
+}
